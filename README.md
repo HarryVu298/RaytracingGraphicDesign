@@ -15,7 +15,7 @@ This project is a sophisticated Ray Tracing engine developed as part of the CSE3
 - C++
 - OpenGL (for rendering context and handling graphics hardware)
 - GLM (for mathematical operations in graphics)
-- Visual Studio (IDE)
+- Visual Studio/XCode (IDE)
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
