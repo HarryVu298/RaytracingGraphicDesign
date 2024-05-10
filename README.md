@@ -1,7 +1,7 @@
 # Ray Tracing Graphic Design Project
 
 ## Description
-This project is a sophisticated Ray Tracing engine developed as part of the CSE386 Computer Graphics course at Miami University. The engine is capable of rendering realistic 3D scenes, incorporating advanced features such as lighting, shadows, reflections, texture mapping, and anti-aliasing. This project demonstrates the application of complex computer graphics techniques and provides a tool for visualizing various geometric transformations and material interactions under different lighting conditions.
+This project is a sophisticated Ray Tracing engine. The engine is capable of rendering realistic 3D scenes, incorporating advanced features such as lighting, shadows, reflections, texture mapping, and anti-aliasing. This project demonstrates the application of complex computer graphics techniques and provides a tool for visualizing various geometric transformations and material interactions under different lighting conditions.
 
 ## Features
 - **Realistic 3D Rendering**: Models interactions of various 3D objects with dynamic lighting and shadows.
