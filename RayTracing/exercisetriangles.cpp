@@ -80,39 +80,3 @@ int main(int argc, char* argv[]) {
 
 	return 0;
 }
-
-/*
-Tri 1 - explicit values
-IN
-IN
-IN
-OUT
-IN
-IN
-OUT
-Tri 2 - explicit values
-IN
-IN
-IN
-Tri 1 - systematic
-0 -0.02 -0.03 OUT
-0 0.48 -0.03 OUT
-0 0.98 -0.03 OUT
-0 -0.02 0.47 OUT
-0 0.48 0.47 IN
-0 0.98 0.47 IN
-0 -0.02 0.97 OUT
-0 0.48 0.97 OUT
-0 0.98 0.97 IN
-Tri 2 - systematic
--4.996 4.98 -0.03 OUT
--5.496 7.48 -0.03 OUT
--5.996 9.98 -0.03 OUT
--4.996 4.98 2.47 OUT
--5.496 7.48 2.47 IN
--5.996 9.98 2.47 OUT
--4.996 4.98 4.97 OUT
--5.496 7.48 4.97 OUT
--5.996 9.98 4.97 OUT
-
-*/
